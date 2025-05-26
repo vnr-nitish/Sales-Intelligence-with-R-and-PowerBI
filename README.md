@@ -71,7 +71,7 @@ Together, these tools demonstrate an end-to-end data analysis workflow from raw 
 
 - **R**: `dplyr`, `ggplot2`, `caTools`, `reshape2`, `scales`
 - **Power BI Desktop**
-- **Google Colab / RStudio**
+- **RStudio**
 - **CSV Input File**: Super_Store.csv
 
 ---
